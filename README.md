@@ -67,8 +67,8 @@ Desmos calculators have been made for various applications - they are not necess
 
 See BAXEDM, one of the originals in the DIY EDM scene. This machine bears some visual similarities to his work, but in the finer details it is quite different. Mike Bax has built an amazing machine which inspired me to construct my own.
 BAXEDM sells various EDM products poentially suitable for this machine. Check it out at 
-[BAXEDM](https://www.baxedm.com/)
-[BAXEDM YOUTUBE}(https://www.youtube.com/@baxedm9806)
+[BAXEDM](https://www.baxedm.com/)   
+[BAXEDM YOUTUBE](https://www.youtube.com/@baxedm9806)
 
 README template inspired heavily by:
 [CLOUGH42 ELS](https://github.com/clough42/electronic-leadscrew)
