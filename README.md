@@ -2,7 +2,7 @@
 
 NanoEDM is an open source development precision EDM machine made from readily available components and existing machine shop tools. The nanoEDM has a quick change end effector mount allowing the user to easily swap between three types of EDM - wire, sinker, and fast hole. 
 
-![Machine Front](https://github.com/alextreseder/picoEDM/blob/master/renders/PicoEDM_Machine_Front.png)
+![Machine Front](https://github.com/alextreseder/nanoEDM/blob/master/renders/nanoEDM_Render_Full.png)
 
 ## Disclaimer
 
